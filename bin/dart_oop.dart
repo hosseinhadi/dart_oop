@@ -8,7 +8,7 @@ void main() async {
   mainCar.numberOfTyres = 3;
   print(mainCar.numberOfTyres);
 
-  var p = Pride(PrideType.pSaina,2,3);
+  var p = Pride(PrideType.pSaina,2,8);
   print(p.type);
 
   p.numberOfTyre = 4;
