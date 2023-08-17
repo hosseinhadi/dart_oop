@@ -8,10 +8,10 @@ void main() async {
   mainCar.numberOfTyres = 3;
   print(mainCar.numberOfTyres);
 
-  var p = Pride(PrideType.p131,2,3);
+  var p = Pride(PrideType.pSaina,2,3);
   print(p.type);
 
-  p.numberOfTyre = 8;
+  p.numberOfTyre = 4;
   print(p.numberOfTyre);
 
   // mainCar.tripDistance = -100;
