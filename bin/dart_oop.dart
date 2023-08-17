@@ -11,8 +11,11 @@ void main() async {
   var p = Pride(PrideType.pSaina,2,8);
   print(p.type);
 
+
   p.numberOfTyre = 4;
   print(p.numberOfTyre);
+  print(p.shomareShasi);
+
 
   // mainCar.tripDistance = -100;
   // // mainCar.
